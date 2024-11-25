@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Permission screen (Agree)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06f396cc-ed6f-4367-b86b-3b79b1d87245</testCaseGuid>
+</TestCaseEntity>

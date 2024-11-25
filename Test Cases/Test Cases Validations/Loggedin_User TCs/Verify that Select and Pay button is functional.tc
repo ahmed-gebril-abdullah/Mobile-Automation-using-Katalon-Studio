@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Select and Pay button is functional</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17e2dec3-69fa-4fdc-a15f-ca16c0b5621c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that zone chargeable hours are displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>830d7e57-07d2-4cc0-af75-0dfc2b7d60ad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that user must add vehicle at least 1 number and 1 letter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b3e3871-abd8-41ef-95ce-608954885c3d</testCaseGuid>
+</TestCaseEntity>

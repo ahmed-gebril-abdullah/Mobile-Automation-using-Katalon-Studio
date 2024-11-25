@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Continue as a guest button is functional</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acef68a7-199a-405a-a4e6-eff6b51d542a</testCaseGuid>
+</TestCaseEntity>

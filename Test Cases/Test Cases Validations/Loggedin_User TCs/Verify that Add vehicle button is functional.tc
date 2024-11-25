@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Add vehicle button is functional</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2bd6a01-ae88-45d9-ae1f-d074d55ebdc0</testCaseGuid>
+</TestCaseEntity>

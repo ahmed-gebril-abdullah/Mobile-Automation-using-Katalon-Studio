@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add vehicle for loggedin user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44f8bf8b-2348-495d-8bd1-de9e14168875</testCaseGuid>
+</TestCaseEntity>

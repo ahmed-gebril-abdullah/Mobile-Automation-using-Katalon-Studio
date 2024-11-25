@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add vehicle for guest user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5091eba7-6aa5-426a-bedf-3c98c50aa75d</testCaseGuid>
+</TestCaseEntity>

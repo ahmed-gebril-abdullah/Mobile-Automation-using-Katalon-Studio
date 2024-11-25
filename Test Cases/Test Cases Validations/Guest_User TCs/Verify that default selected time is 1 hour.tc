@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that default selected time is 1 hour</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5591e264-68c8-48cc-9431-426cea4777ba</testCaseGuid>
+</TestCaseEntity>
